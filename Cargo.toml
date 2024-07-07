@@ -3,7 +3,7 @@ name = "timethis"
 version = "0.1.0"
 edition = "2021"
 description = "A simple, single-dependecy crate for timing execution"
-license = "LPGL-2.1"
+license = "LGPL-2.1"
 readme = "README.md"
 repository = "https://github.com/basicallygit/timethis-rs"
 
